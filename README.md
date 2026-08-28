@@ -23,6 +23,7 @@ Se precisar preparar o PostgreSQL antes de começar, consulte:
 | 03 | `DISTINCT ON` | `episodios/03-distinct-on` | [SQL da Semana 03](https://dfls.eti.br/posts/sql-da-semana-03-distinct-on-postgresql/) |
 | 04 | UPSERT | `episodios/04-upsert` | [SQL da Semana 04](https://dfls.eti.br/posts/sql-da-semana-04-upsert-postgresql/) |
 | 05 | CTE com `WITH` | `episodios/05-cte` | [SQL da Semana 05](https://dfls.eti.br/posts/sql-da-semana-05-cte-postgresql/) |
+| 06 | Funções de janela | `episodios/06-window-functions` | Em preparação |
 
 ## Preparar o ambiente
 
