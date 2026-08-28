@@ -121,4 +121,4 @@ docker compose down
 
 Para reiniciar apenas este cenário, execute novamente os três arquivos desde `01-tabelas.sql`. Para apagar o volume e todos os laboratórios, consulte o aviso no README principal antes de usar `docker compose down -v`.
 
-O artigo do episódio 06 está em preparação.
+Leia o [artigo do episódio 06](https://dfls.eti.br/posts/sql-da-semana-06-window-functions-postgresql/).
