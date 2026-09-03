@@ -24,6 +24,7 @@ Se precisar preparar o PostgreSQL antes de começar, consulte:
 | 04 | UPSERT | `episodios/04-upsert` | [SQL da Semana 04](https://dfls.eti.br/posts/sql-da-semana-04-upsert-postgresql/) |
 | 05 | CTE com `WITH` | `episodios/05-cte` | [SQL da Semana 05](https://dfls.eti.br/posts/sql-da-semana-05-cte-postgresql/) |
 | 06 | Funções de janela | `episodios/06-window-functions` | [SQL da Semana 06](https://dfls.eti.br/posts/sql-da-semana-06-window-functions-postgresql/) |
+| 07 | `LATERAL` | `episodios/07-lateral` | [SQL da Semana 07](https://dfls.eti.br/posts/sql-da-semana-07-lateral-postgresql/) |
 
 ## Preparar o ambiente
 
