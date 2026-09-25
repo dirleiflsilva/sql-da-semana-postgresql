@@ -107,4 +107,4 @@ docker compose down
 
 Para reiniciar somente este episódio, repita os três arquivos. Consulte o [README principal](../../README.md) para as opções de encerramento do ambiente completo.
 
-O post acompanhante está em rascunho, com publicação prevista para 18/09/2026: **SQL da Semana #09 — JSONB: consultando eventos e metadados de documentos fiscais**.
+Leia o artigo [SQL da Semana #09 — JSONB: consultando eventos e metadados de documentos fiscais](https://dfls.eti.br/posts/sql-da-semana-09-jsonb-postgresql/), publicado em 25/09/2026.
