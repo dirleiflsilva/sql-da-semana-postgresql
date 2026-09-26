@@ -26,6 +26,7 @@ Se precisar preparar o PostgreSQL antes de começar, consulte:
 | 06 | Funções de janela | `episodios/06-window-functions` | [SQL da Semana 06](https://dfls.eti.br/posts/sql-da-semana-06-window-functions-postgresql/) |
 | 07 | `LATERAL` | `episodios/07-lateral` | [SQL da Semana 07](https://dfls.eti.br/posts/sql-da-semana-07-lateral-postgresql/) |
 | 09 | `JSONB` | [episodios/09-jsonb](episodios/09-jsonb/) | [SQL da Semana 09](https://dfls.eti.br/posts/sql-da-semana-09-jsonb-postgresql/) |
+| 10 | Materialized Views | [episodios/10-materialized-views](episodios/10-materialized-views/) | Em breve |
 
 > **Episódio 08:** foi baseado no laboratório [02 — Database Initialization, do PostgreSQL Reliability Lab](https://github.com/dirleiflsilva/postgresql-reliability-lab/tree/main/labs/02-database-initialization). O material prático desse episódio está naquele repositório.
 
