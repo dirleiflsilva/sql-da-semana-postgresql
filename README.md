@@ -28,6 +28,7 @@ Se precisar preparar o PostgreSQL antes de começar, consulte:
 | 09 | `JSONB` | [episodios/09-jsonb](episodios/09-jsonb/) | [SQL da Semana 09](https://dfls.eti.br/posts/sql-da-semana-09-jsonb-postgresql/) |
 | 10 | Materialized Views | [episodios/10-materialized-views](episodios/10-materialized-views/) | [SQL da Semana 10](https://dfls.eti.br/posts/sql-da-semana-10-materialized-views-postgresql/) |
 | 11 | `FOR UPDATE` e controle de concorrência | [episodios/11-for-update](episodios/11-for-update/) | [SQL da Semana 11](https://dfls.eti.br/posts/sql-da-semana-11-for-update-controle-concorrencia/) |
+| 12 | `SKIP LOCKED` e fila concorrente | [episodios/12-skip-locked](episodios/12-skip-locked/) | [SQL da Semana 12](https://dfls.eti.br/posts/sql-da-semana-12-skip-locked-fila-processamento-xml/) |
 
 > **Episódio 08:** foi baseado no laboratório [02 — Database Initialization, do PostgreSQL Reliability Lab](https://github.com/dirleiflsilva/postgresql-reliability-lab/tree/main/labs/02-database-initialization). O material prático desse episódio está naquele repositório.
 
@@ -46,7 +47,7 @@ docker compose exec postgres \
   psql -U postgres -d sql_da_semana
 ```
 
-Dentro do `psql`, execute os três arquivos do episódio desejado **na ordem numérica**. Por exemplo:
+Dentro do `psql`, siga o roteiro do `README.md` do episódio desejado. Nos episódios 01 a 11, os três arquivos principais são executados **na ordem numérica**. Por exemplo:
 
 ```psql
 \i /sql-da-semana/05-cte/01-tabelas.sql
@@ -74,7 +75,7 @@ docker compose down -v
 
 > **Atenção:** `docker compose down -v` remove o volume nomeado e todos os dados dos laboratórios. Essa operação não pode ser desfeita pelo Docker Compose.
 
-Cada episódio também pode ser reiniciado sem apagar o volume: execute novamente seus três arquivos, começando por `01-tabelas.sql`.
+Cada episódio também pode ser reiniciado sem apagar o volume. Consulte o `README.md` do episódio; em geral, a reinicialização começa por `01-tabelas.sql`, e alguns episódios oferecem um script específico de restauração.
 
 ## Licença
 
