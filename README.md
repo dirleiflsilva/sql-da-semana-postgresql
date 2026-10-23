@@ -29,6 +29,7 @@ Se precisar preparar o PostgreSQL antes de começar, consulte:
 | 10 | Materialized Views | [episodios/10-materialized-views](episodios/10-materialized-views/) | [SQL da Semana 10](https://dfls.eti.br/posts/sql-da-semana-10-materialized-views-postgresql/) |
 | 11 | `FOR UPDATE` e controle de concorrência | [episodios/11-for-update](episodios/11-for-update/) | [SQL da Semana 11](https://dfls.eti.br/posts/sql-da-semana-11-for-update-controle-concorrencia/) |
 | 12 | `SKIP LOCKED` e fila concorrente | [episodios/12-skip-locked](episodios/12-skip-locked/) | [SQL da Semana 12](https://dfls.eti.br/posts/sql-da-semana-12-skip-locked-fila-processamento-xml/) |
+| 13 | Datas textuais, validação e calendário de faturamento | [episodios/13-datas-texto-calendario](episodios/13-datas-texto-calendario/) | [SQL da Semana 13](https://dfls.eti.br/posts/sql-da-semana-13-datas-texto-calendario-faturamento/) |
 
 > **Episódio 08:** foi baseado no laboratório [02 — Database Initialization, do PostgreSQL Reliability Lab](https://github.com/dirleiflsilva/postgresql-reliability-lab/tree/main/labs/02-database-initialization). O material prático desse episódio está naquele repositório.
 
