@@ -2,7 +2,7 @@
 
 ## Objetivo e limites
 
-Demonstrar como exclusão lógica, chaves compostas por filial e cadastros compartilhados afetam a correção de consultas SQL. O [artigo SQL da Semana 15](https://dfls.eti.br/posts/sql-da-semana-15-exclusao-logica-filial-modelo-protheus/) está previsto para **06/11/2026**, com publicação pendente. O endereço corresponde ao slug do artigo; na conferência de 06/11/2026, retornou HTTP 404 e o artigo local ainda estava marcado como rascunho.
+Demonstrar como exclusão lógica, chaves compostas por filial e cadastros compartilhados afetam a correção de consultas SQL. O [artigo SQL da Semana 15](https://dfls.eti.br/posts/sql-da-semana-15-exclusao-logica-filial-modelo-protheus/) foi publicado em **06/11/2026**. A página foi conferida em produção com HTTP 200 após o deploy do artigo no commit `7bc1571` do repositório `dfls.eti.br`.
 
 Os dados são exclusivamente sintéticos, em tabelas próprias do schema `sql_semana_15`, com um único contexto de empresa. O laboratório funciona apenas com PostgreSQL: não depende de Protheus, AppServer, DBAccess ou licenças. O modelo é inspirado nesses conceitos; não reproduz o dicionário, os índices físicos nem as regras completas do ERP. Não cobre múltiplas empresas, regras gerais de compartilhamento, benchmarks, tuning ou autovacuum, nem apresenta conclusões sobre desempenho.
 
